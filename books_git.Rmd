@@ -1,5 +1,8 @@
 A *very* simple multivariable model
+
 ================
+
+output: html_document
 
 ## Load packages
 
@@ -7,6 +10,14 @@ A *very* simple multivariable model
 library(DAAG)
 library(tidyverse)
 library(tidymodels)
+```
+
+## Git learn
+
+``` {r echo = TRUE}
+a = 3
+b = 4
+a+b
 ```
 
 ## Take a peek at the data
