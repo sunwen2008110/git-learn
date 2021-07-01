@@ -17,7 +17,7 @@ library(tidymodels)
 ``` {r echo = TRUE}
 a = 3
 b = 4
-a^7 + b
+a + b^2
 ```
 
 ## Take a peek at the data
