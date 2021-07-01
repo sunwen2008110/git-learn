@@ -20,6 +20,15 @@ b = 4
 a + b^2
 ```
 
+### for loop
+``` {r echo = TRUE} 
+j = 0
+for (i in 1:4){
+j = i + j
+}
+j
+```
+
 ## Take a peek at the data
 
 ``` r
